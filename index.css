@@ -1,0 +1,44 @@
+body {
+    background-image: url("https://media.tenor.com/dzs3WPLgqoYAAAAC/cat-hug.gif");
+    background-size: cover;
+    font-family: Oxygen, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    height: 100vh;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+    opacity: 0.8;
+}
+
+#increment-btn {
+    background: #DEBA6F;
+}
+#save-btn {
+    background: #823038;
+}
+
+#counter {
+    width: 300px;
+    margin: 0 auto;
+   
+}
